@@ -1,0 +1,9 @@
+matplotlib==3.3.4
+numpy==1.21.5
+pandas==1.4.1
+scipy==1.7.3
+dill==0.3.3
+tqdm==4.53.0
+cvxpy==1.1.17
+ecos==2.0.8
+mosek==9.3.11
